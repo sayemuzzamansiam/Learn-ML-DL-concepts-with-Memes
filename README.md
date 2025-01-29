@@ -2,7 +2,9 @@
 
 Welcome to the ultimate **repository** where Machine Learning (ML) and Deep Learning (DL) meet **memes**! Who says learning can't be fun? Dive into a world where complex concepts are simplified with humor, because why not learn while laughing? 😂
 
-You’ll find some of my finest (and funniest) work here, turning complicated algorithms into memes that are both informative and hilarious! Want more? Check out my full collection of articles on [Medium](https://medium.com/@sayemuzzamansiam).
+You’ll find some of my finest (and funniest) work here, turning complicated algorithms into memes that are both informative and hilarious! Want more? Check out my full collection of articles on [Medium](https://medium.com/@sayemuzzamansiam). <br/>
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sayemuzzamansiam)
+
 
 ---
 
