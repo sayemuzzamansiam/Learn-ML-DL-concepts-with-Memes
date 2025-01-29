@@ -1,4 +1,4 @@
-# 🚀🧠 Learn ML/DL Concepts Using Memes: Where Gradient Descent Meets Dankness 📉😂
+# Learn ML/DL Concepts Using Memes: Where Gradient Descent Meets Dankness 📉😂
 
 Welcome to the world's most entertaining machine learning textbook! This repository combines **cutting-edge AI concepts** with **dankest memes** to make neural networks as understandable as your morning coffee. ☕️
 
